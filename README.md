@@ -1,2 +1,1 @@
-# Xoos
-Open Xoos Source Repo
+# Releases only available in the [Releases Tab](https://github.com/ItzIcoza/Xoos/releases)
